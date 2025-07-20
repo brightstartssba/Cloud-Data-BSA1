@@ -1,0 +1,100 @@
+Dưới đây là đề xuất các **tính năng cần thiết** cho từng loại nội dung: **ảnh**, **video**, **âm thanh**, và **tài liệu** — cả về **xem** và **chỉnh sửa**:
+
+---
+
+## 📷 1. **Xem và chỉnh sửa ẢNH**
+
+### 🔍 *Tính năng xem ảnh:*
+
+* Phóng to/thu nhỏ (zoom in/out)
+* Xoay ảnh
+* Xem ảnh toàn màn hình
+* Xem theo album/thư mục
+* Thông tin ảnh (kích thước, định dạng, metadata)
+
+### 🖌 *Tính năng chỉnh sửa ảnh:*
+
+* Cắt, xoay, lật ảnh
+* Thay đổi kích thước (resize)
+* Điều chỉnh độ sáng, tương phản, màu sắc
+* Bộ lọc (filter) và hiệu ứng
+* Làm mờ, làm nét
+* Chèn văn bản, sticker, watermark
+* Tẩy đối tượng (object removal)
+* Vẽ tay tự do (free drawing)
+* Xuất ảnh ở nhiều định dạng (JPG, PNG, WEBP…)
+
+---
+
+## 🎥 2. **Xem và chỉnh sửa VIDEO**
+
+### 🔍 *Tính năng xem video:*
+
+* Phát, tạm dừng, tua nhanh/chậm
+* Điều chỉnh âm lượng
+* Phụ đề (bật/tắt, thay đổi ngôn ngữ)
+* Xem toàn màn hình
+* Tua theo khung hình
+* Hỗ trợ nhiều định dạng video
+
+### ✂ *Tính năng chỉnh sửa video:*
+
+* Cắt đoạn, ghép video
+* Chèn nhạc nền hoặc thay đổi âm thanh
+* Thêm/hiệu chỉnh phụ đề
+* Hiệu ứng chuyển cảnh
+* Bộ lọc màu, điều chỉnh độ sáng/độ tương phản
+* Chèn văn bản, logo, hình ảnh
+* Làm mờ nền, làm nổi bật đối tượng
+* Tua nhanh/chậm (speed ramping)
+* Chuyển đổi định dạng, độ phân giải (export options)
+
+---
+
+## 🔊 3. **Xem và chỉnh sửa ÂM THANH**
+
+### 🔍 *Tính năng xem/nghe âm thanh:*
+
+* Phát, tạm dừng, tua lại
+* Xem sóng âm thanh (waveform)
+* Hiển thị thời lượng, tốc độ phát
+* Xem metadata (bitrate, định dạng, thời lượng…)
+
+### 🎛 *Tính năng chỉnh sửa âm thanh:*
+
+* Cắt, nối file âm thanh
+* Tăng/giảm âm lượng, fade in/out
+* Khử nhiễu (noise reduction)
+* Thêm hiệu ứng (echo, reverb, equalizer…)
+* Thay đổi tốc độ hoặc cao độ
+* Tách tiếng khỏi nhạc nền (vocal remover)
+* Ghi âm và chèn vào file
+* Xuất file ở nhiều định dạng (MP3, WAV, FLAC…)
+
+---
+
+## 📄 4. **Xem và chỉnh sửa TÀI LIỆU (PDF, DOCX, TXT, v.v.)**
+
+### 🔍 *Tính năng xem tài liệu:*
+
+* Cuộn trang, thu phóng
+* Tìm kiếm nội dung
+* Xem mục lục
+* Chế độ xem trang đơn/đôi
+* Đọc toàn màn hình
+* Ghi chú, đánh dấu highlight
+
+### 📝 *Tính năng chỉnh sửa tài liệu:*
+
+* Soạn thảo văn bản (thêm/sửa/xóa)
+* Định dạng chữ: đậm, nghiêng, gạch chân, màu…
+* Chèn hình ảnh, bảng, biểu đồ
+* Chèn/trích xuất trang (đối với PDF)
+* Chèn nhận xét, chú thích
+* Kiểm tra chính tả/ ngữ pháp
+* Chuyển đổi định dạng (PDF ↔ DOCX, TXT, v.v.)
+* Ký số hoặc chèn chữ ký điện tử
+
+---
+
+Bạn có muốn mình tạo thành bảng so sánh trực quan không?
